@@ -26,6 +26,6 @@ Cars with mecanum wheels can be controlled at different speed levels.
 -	Fritzing
 -	A Smartphone (Android)
 ### To get started, more details are at:
--	grabcad.com/library/autotant-1
+-	[grabcad.com/library/autotant-1]
 ### Some other projects of mine:
--	thingiverse.com/harun_c/designs
+-	[thingiverse.com/harun_c/designs]
