@@ -25,6 +25,12 @@ Cars with mecanum wheels can be controlled at different speed levels.
 -	Arduino IDE
 -	Fritzing
 -	A Smartphone (Android)
+
+##### Mecanum_Car_Controller.apk :
+![](Images/Apk_01.png)
+![](Images/Apk_02.png)
+##### Connecting Hardware :
+![](Images/Connections.png)
 ### To get started, more details are at:
 -	[grabcad.com/library/autotant-1](https://grabcad.com/library/autotant-1)
 ### Some other projects of mine:
