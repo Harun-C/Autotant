@@ -5,7 +5,7 @@
 
 Being inspired by “Automation”, “Assistant” and “Mutant”, this product was named “Autotant”. “Autotant” is a multifunctional car platform. The gaps on the body allow the installation of different sensors, so it can be used as a robot that can perform different tasks depending on the equipment used. Line following cars can be made with line tracking sensors; obstacle avoiding cars can be made with ultrasonic or optical distance sensors. It can also be used as a remote control car with bluetooth or wireless transceiver. It is a prototype designed for indoor transportation. 
 
-How Autotant moves:
+### How Autotant moves:
 
 It was designed as a four-wheel-drive (4-WD) car platform that has mecanum wheel technology.
 -	It can move forwards-backwards and right-left linearly.
